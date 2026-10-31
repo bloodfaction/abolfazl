@@ -4,9 +4,9 @@
 
 # Abolfazl
 
-**FiveM Developer** — Server scripts, NUI, and database layers
+**Multiplayer Server Developer** — Game scripts, in-game UI, and database layers
 
-Building GTA V multiplayer resources: from server logic to in-game interfaces.
+Building multiplayer server resources: from server logic to in-game interfaces.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bloodfaction-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bloodfaction)
 [![Email](https://img.shields.io/badge/Email-abolfazlebrahimi2015%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolfazlebrahimi2015@gmail.com)
@@ -20,12 +20,12 @@ Building GTA V multiplayer resources: from server logic to in-game interfaces.
 
 **Scripting Runtimes** 
 
-![Lua](https://img.shields.io/badge/Lua_(CfxLua)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua_(5.4)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_(V8)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23_(.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**NUI (In-Game UI)** — Chromium Embedded Framework
+**In-Game UI** — Chromium Embedded Framework
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
