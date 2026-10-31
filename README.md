@@ -7,9 +7,9 @@
 
 # Abolfazl
 
-**Full-Stack Developer** — JavaScript / TypeScript · Python
+**FiveM Developer** — Server scripts, NUI, and database layers
 
-Building from front-end to back-end, and working with data.
+Building GTA V multiplayer resources: from server logic to in-game interfaces.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bloodfaction-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bloodfaction)
 [![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -21,24 +21,42 @@ Building from front-end to back-end, and working with data.
 
 ## 🛠 Tech Stack
 
-**Front-end**
+**Scripting Runtimes** — the three runtimes FiveM supports
 
+![Lua](https://img.shields.io/badge/Lua_(CfxLua)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_(V8)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23_(.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**NUI (In-Game UI)** — Chromium Embedded Framework
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Back-end**
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+**Tools & Runtime**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Data**
+**FiveM Ecosystem**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![QBCore](https://img.shields.io/badge/QBCore-1F6FEB?style=for-the-badge)
+![ESX](https://img.shields.io/badge/ESX-6E40C9?style=for-the-badge)
+![ox_lib](https://img.shields.io/badge/ox__lib-2EA043?style=for-the-badge)
+![oxmysql](https://img.shields.io/badge/oxmysql-2EA043?style=for-the-badge)
+![txAdmin](https://img.shields.io/badge/txAdmin-D29922?style=for-the-badge)
 
 ## 📫 Contact
 
