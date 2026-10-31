@@ -22,7 +22,7 @@ Building multiplayer server resources: from server logic to in-game interfaces.
 ![C#](https://img.shields.io/badge/C%23_(.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**In-Game UI** — Chromium Embedded Framework
+**In-Game UI** 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
