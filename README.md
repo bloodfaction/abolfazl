@@ -8,9 +8,6 @@
 
 Building multiplayer server resources: from server logic to in-game interfaces.
 
-[![GitHub](https://img.shields.io/badge/GitHub-bloodfaction-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bloodfaction)
-[![Email](https://img.shields.io/badge/Email-abolfazlebrahimi2015%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolfazlebrahimi2015@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@veshata-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/veshata)
 
 </div>
 
