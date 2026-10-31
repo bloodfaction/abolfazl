@@ -21,7 +21,7 @@ Building GTA V multiplayer resources: from server logic to in-game interfaces.
 
 ## 🛠 Tech Stack
 
-**Scripting Runtimes** — the three runtimes FiveM supports
+**Scripting Runtimes** 
 
 ![Lua](https://img.shields.io/badge/Lua_(CfxLua)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_(V8)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,13 +50,7 @@ Building GTA V multiplayer resources: from server logic to in-game interfaces.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**FiveM Ecosystem**
 
-![QBCore](https://img.shields.io/badge/QBCore-1F6FEB?style=for-the-badge)
-![ESX](https://img.shields.io/badge/ESX-6E40C9?style=for-the-badge)
-![ox_lib](https://img.shields.io/badge/ox__lib-2EA043?style=for-the-badge)
-![oxmysql](https://img.shields.io/badge/oxmysql-2EA043?style=for-the-badge)
-![txAdmin](https://img.shields.io/badge/txAdmin-D29922?style=for-the-badge)
 
 ## 📫 Contact
 
